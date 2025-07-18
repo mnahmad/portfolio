@@ -36,13 +36,41 @@ Details coming soon
 
 
 
-### Citizen Science based data collection app (Regreening App)  
+### Citizen Science based data collection app (Regreening App) _August 2018 - Present_
 [Project website](https://regreeningafrica.org/in-the-news/the-regreening-africa-app/)
 
 
-Led a team of developers to develop and implement a citizen science tool to monitor land restoration project. The Android App. was developed in **Kotlin** while the backend was developed using **Postgres (PostGIS)** and **Python Django (utilizing Django REST Framework)**. The tool was successfully utilized in [Regreening Africa project](https://regreeningafrica.org/in-the-news/the-regreening-africa-app/), helping in collecting (a) 140,000 farmers data, (b) 143,000 farm/plots boundaries (using GNSS) resulting in around 300,000 hectares of area under restoration along with other critical data/insights that are now being utilized by partners in 8 countries in Africa. More than 15 other projects are not using the Regreeing App for their land restoration projects. Read more about the App at this link https://radrs.icraf.org/.
+Led a team of developers to develop and implement a citizen science tool to monitor land restoration project. The Android App. was developed in **Kotlin** while the backend was developed using **Postgres (PostGIS)** and **Python Django (utilizing Django REST Framework)**. The tool was successfully utilized in [Regreening Africa project](https://regreeningafrica.org/in-the-news/the-regreening-africa-app/), helping in collecting (a) 140,000 farmers data, (b) 143,000 farm/plots boundaries (using GNSS) resulting in around 300,000 hectares of area under restoration along with other critical data/insights that are now being utilized by partners in 8 countries in Africa. More than 15 other projects are not using the Regreening App for their land restoration projects. Read more about the App at [this link](https://radrs.icraf.org/).
 
-The Regreening Africa project was selected by UNEP and FAO as one of the 7 projects as UN World Restoration flagshipsin 2024, read more about it at this link. (https://www.decadeonrestoration.org/regreening-africa). This product is under continuous improvements, thus, its an ongoing effort to help partners improve their monitoring and evaluation of land restoration projects.
+The Regreening Africa project was selected as UN World Restoration flagships projects (in 2024) by UNEP and FAO, read more about it at [this link](https://www.decadeonrestoration.org/regreening-africa).
+
+The Regreening App is under continuous improvements, thus, its an ongoing effort to help partners improve their monitoring and evaluation of land restoration projects. Present development include Rangeland module, revisit functionality etc.
+
+
+
+### Geospatial capacity development Gambia
+Details coming soon
+
+### Geospatial capacity development for PARSAT project, Chad _January 2018 - December 2019_
+
+PARSAT is a IFAD funded project. Being part of PARSAT project, ICRAF is responsible for two components i.e. Land degradation analysis and capacity building (spatial component). I am responsible for field data collection platform and capacity building. For capacity building, we have conducted three workshops that are
+
+  1. GIS training using **QGIS** (March 2018)
+  2. GPS training for data collection (November 2018)
+  3. Spatial data infrastructure and PARSAT Geoportal, baed on **GeoNode** (2019)
+
+### Africa Tree Finder Android Application version 2 _March 2016 - January 2017_
+[Africa Tree Finder App](https://play.google.com/store/apps/details?id=com.icraf.gsl.africatreefinder&hl=en)
+
+Africa Tree Finder is an android application that allows uses to identify useful tree species based on their current location. It uses [Potential Natural Vegetation maps](http://vegetationmap4africa.org/) as base maps and ICRAF Tree database as the corresponding information bank.
+
+First version provides categorized tree species list based on user’s current location. It is based on Google maps API. The second version provides categorized tree species list plus detailed information about each species like usage, management etc. The second version used **osmdroid** MapView library.
+
+My **role** in this project was
+  - I worked on this project as **development team lead**
+  - I developed geospatial component for the app including map view using [osmdroid](https://github.com/osmdroid/osmdroid) and GPS classes.
+
+Africa Tree Finder is an IUCN funded project.
 
 
 
