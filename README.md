@@ -1,7 +1,8 @@
 # Geospatial Technical Team Lead
 
-#### Technical Skills: Python (Rasterio, Xarray, Django, GeoDjango, FASTAPI), R (Shiny), MapBasic, Google Earth Engine (GEE), GeoServer, Map Server,  STAC, Titiler, OpenLayers, Leflet,  GeoNode, GeoNetwork, QGIS, GDAL, MapInfo, PostgreSQL(PostGIS), ODK
+#### Technical Skills (recent): Python (Rasterio, Xarray, Django, GeoDjango, FASTAPI), R (Shiny), Google Earth Engine (GEE), GeoServer, STAC, Titiler,  Leflet,  GeoNode, QGIS, GDAL, PostgreSQL(PostGIS), mySQL, ODK
 
+#### Technical Skills (Past): MapInfo, MapBasic, Map Server, OpenLayers, GeoNetwork
 
 ## Education
 - MSc. Geodesy and GeoInformatics, KTH University, Stockholm, Sweden (_2011_)
@@ -13,7 +14,7 @@
 - Leading a team of geospatial developer to establish and maintain different geospatial solution including
   - Geospatial data stores (GeoNode, SpatioTemporal Asset Catalog (STAC))
   - GIS Servers (GeoServer, Titiler)
-  - Decision support and data reporting dashboards (developed in Rshiny (deployed using Shinyproxy), Python (Django, Dash, Streamlet) and Julia)
+  - Decision support and data reporting dashboards (developed in RShiny (deployed using Shinyproxy), Python (Django, Dash, Streamlet) and Julia)
   - CICD (Github, dockerhub, FASTAPI)
 
 **Geoportal Developer, GeoScience Lab, ICRAF _Sep 2011 - Dec 2020_)**
@@ -37,13 +38,18 @@ Details coming soon
 
 ### Citizen Science based data collection app (Regreening App)  
 [Project website](https://regreeningafrica.org/in-the-news/the-regreening-africa-app/)
-**Django REST API**, **PostgreSQL** and **PostGIS**
-Details coming soon
+
+
+Led a team of developers to develop and implement a citizen science tool to monitor land restoration project. The Android App. was developed in **Kotlin** while the backend was developed using **Postgres (PostGIS)** and **Python Django (utilizing Django REST Framework)**. The tool was successfully utilized in [Regreening Africa project](https://regreeningafrica.org/in-the-news/the-regreening-africa-app/), helping in collecting (a) 140,000 farmers data, (b) 143,000 farm/plots boundaries (using GNSS) resulting in around 300,000 hectares of area under restoration along with other critical data/insights that are now being utilized by partners in 8 countries in Africa. More than 15 other projects are not using the Regreeing App for their land restoration projects. Read more about the App at this link https://radrs.icraf.org/.
+
+The Regreening Africa project was selected by UNEP and FAO as one of the 7 projects as UN World Restoration flagshipsin 2024, read more about it at this link. (https://www.decadeonrestoration.org/regreening-africa). This product is under continuous improvements, thus, its an ongoing effort to help partners improve their monitoring and evaluation of land restoration projects.
+
 
 
 ### MSc Thesis _Aug 2010 - Jan 2011_
 [Thesis video](http://www.youtube.com/watch?v=h4Sm2NxJj1g)
-My MSc. thesis was to investigate the capabilities of Open Source web GIS technologies and then compare them with Commercial web GIS technologies for a specific domain i.e. Control-Center/Crisis Cell spatial applications. The output was two web GIS applications, developed with commercial (**ArcGIS**) and Open Source web GIS software/libraries(**MapServer, PostgreSQL/PostGIS,OpenLayers,ExtUI**). The application provides latest situation awarness picture in a city by displaying emergency events (e.g. Robberies, Fighting, Fire etc), Police Patrols, fire engine on a single map with functionality of nearest police car/fire engine to an event. Metropolitan administration can assign police cars and fire engine to an event. Updates on an events are fed into the database and can be obtained by clicking on an event.
+
+My MSc. thesis was to investigate the capabilities of Open Source web GIS technologies and then compare them with Commercial web GIS technologies for a specific domain i.e. Control-Center/Crisis Cell spatial applications. The output was two web GIS applications, developed with commercial (**ArcGIS**) and Open Source web GIS software & libraries (**MapServer, PostgreSQL/PostGIS,OpenLayers,ExtUI**). The application provides latest situation awareness picture in a city by displaying emergency events (e.g. Robberies, Fighting, Fire etc), Police Patrols, fire engine on a single map with functionality of nearest police car or fire engine to an event. Metropolitan administration can assign police cars and fire engine to an event. Updates on an events are fed into the database and can be obtained by clicking on an event.
 
 
 ## Publications
